@@ -70,4 +70,4 @@ We will not sell, distribute or lease your personal information to third parties
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
 ## Data Deletion Request
-If at any point you would like your data to be deleted, please reach out to us at info (at) exordiumgames.com.
+If at any point you would like your data to be deleted, please reach out to us at gabrielpff2[at]@gmail.com
