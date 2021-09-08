@@ -13,12 +13,15 @@ We may collect the following information:
 
 email address – in case you sign up as our alpha tester
 statistics about how you use our products
+
+Gameplay log data
 ## What we do with the information we gather
 We require this information to send you game keys and let you know what we do. We also use this information to make our product better fit your needs.
 
 We may periodically send you an e-mail about what we are doing at the moment, or informing you about a new game that we are releasing, etc.
 We may send you game keys to enable you to test our games
-What is the legal basis for processing the data
+
+# What is the legal basis for processing the data
 We will always ask for your consent when we ask for your data.
 
 ## Who do we share the data with
@@ -41,7 +44,7 @@ The right to restrict processing
 The right to data portability
 The right to object
 Rights in relation to automated decision making and profiling.
-Complaints
+### Complaints
 
 If you have any complaints, make sure to write us an email at : gabrielpff2[at]gmail.com
 
